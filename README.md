@@ -108,6 +108,7 @@ Frontend Knowledge Structure
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
         - [jQuery Mobile](http://jquerymobile.com/)
+        - [.9.png](http://baike.baidu.com/view/5849637.htm)
     - 前沿技术社区/会议
         - [D2](http://d2forum.org)/[WebRebuild](http://www.webrebuild.org/)
         - NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂](http://www.html5dw.com)
